@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋  
+I'm **Juan Blas**, a Full Stack Developer from Lima, Peru.
 
-<!--
-**sunderlldev/sunderlldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on building modern web applications and native mobile solutions using Kotlin and Android Studio.  
+My work is centered on clean, scalable, and maintainable code that delivers a solid user experience.
 
-Here are some ideas to get you started:
+I value clear architecture, consistent practices, and code that’s easy to understand and extend.  
+I’m always refining the way I write, organize, and structure my projects for long-term efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I enjoy working on
+- Web applications built with React, Astro, and modern frameworks  
+- REST APIs with Java Spring Boot and PostgreSQL  
+- Mobile apps with Kotlin and Android Studio  
+- Clean, scalable, and efficient solutions that make development smoother
