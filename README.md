@@ -1,24 +1,14 @@
-# Hi, I'm Juan Blas
+# Hi, I'm Juan 👋
+Full Stack Developer from Lima, Peru.
 
-I am a **Full Stack Developer** based in Lima, Peru, specializing in the creation of modern and scalable web and native mobile applications.
+I build reliable and efficient applications for web and mobile platforms, focusing on performance and clean architecture.  
+My goal is to deliver code that’s maintainable, scalable, and aligned with best development practices.
 
----
+### Main stack
+React • Astro • Spring Boot • PostgreSQL • Kotlin
 
-### Technical Stack
-
-My work involves developing end-to-end solutions, covering both client-side and server-side technologies:
-
-* **Web Frontend:** Building applications using **React, Astro**, and modern JavaScript frameworks.
-* **Backend & APIs:** Developing robust **REST APIs** with **Java Spring Boot** and **PostgreSQL**.
-* **Mobile Development:** Creating native **Android** applications with **Kotlin** and Android Studio.
-
-### Core Principles
-
-I prioritize clear architecture, code quality, and long-term project viability:
-
-* **Clean Architecture:** Focusing on writing **clean, readable, and maintainable code** that is easy to extend.
-* **Scalability:** Designing solutions for both performance and future growth.
-* **User Experience (UX):** Delivering a solid, consistent, and well-thought-out user experience.
-* **Efficiency:** Constantly refining practices and project structures for long-term development efficiency.
-
----
+### Areas I work with
+- Frontend and UI development using React and Astro
+- REST APIs and backend systems with Spring Boot and PostgreSQL
+- Native Android apps with Kotlin
+- Scalable architectures that balance performance and simplicity
