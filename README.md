@@ -10,7 +10,7 @@ React • Astro • Spring Boot • PostgreSQL • Kotlin • Tailwind
 
 <h4>Areas I work with</h4>
 
-- Frontend and UI development using React and Astro
+- Frontend and UI development w/ React and Astro
 - REST APIs and backend systems with Spring Boot and PostgreSQL
 - Native Android apps with Kotlin
 - Scalable architectures that balance performance and simplicity
