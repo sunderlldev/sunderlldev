@@ -8,7 +8,7 @@ My goal is to deliver code that’s maintainable, scalable, and aligned with bes
 <h4>Main stack</h4>
 React • Astro • Spring Boot • PostgreSQL • Kotlin • Tailwind
 
-<h4>Areas I work with</h4>
+<h4>Areas I work with </h4>
 
 - Frontend and UI development w/ React and Astro
 - REST APIs and backend systems with Spring Boot and PostgreSQL
