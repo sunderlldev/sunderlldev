@@ -13,4 +13,4 @@ React • Astro • Spring Boot • PostgreSQL • Kotlin • Tailwind
 - REST APIs and backend systems with Spring Boot and PostgreSQL
 - Native Android apps with Kotlin
 - Scalable architectures that balance performance and simplicity
-- Strong interest in iOS and multi-platform development.
+- Strong interest in iOS development.
