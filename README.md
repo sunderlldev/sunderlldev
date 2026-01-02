@@ -5,7 +5,7 @@ I build reliable and efficient applications for web and mobile platforms, focusi
 My goal is to deliver code that’s maintainable, scalable, and aligned with best development practices.
 
 <h4>Main stack</h4>
-NextJS • Astro • Spring Boot • PostgreSQL • Kotlin • Tailwind
+Astro • Spring Boot • Tailwind • NextJS • Kotlin • PostgreSQL
 
 <h4>Areas I work with</h4>
 
