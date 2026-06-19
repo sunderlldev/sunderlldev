@@ -1,3 +1,5 @@
+<a href="https://sunderll.dev" target="_blank">portfolio</a> • 
+<a href="https://www.linkedin.com/in/sunderll/" target="_blank">linkedin</a>
 <h3>Hi, I'm Juan 👋</h3>
 <h4>Full Stack Developer from Lima, Peru.</h4>
 
